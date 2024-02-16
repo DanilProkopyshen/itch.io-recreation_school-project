@@ -1,0 +1,88 @@
+{
+    "games": [
+        {
+            "banner": "https://img.itch.zone/aW1nLzExMzEyNTAxLnBuZw==/300x240%23c/282EBP.png",
+            "name": "Beecarbonize",
+            "price": "FREE",
+            "description": "Climate survival card strategy",
+            "genres": []
+        },
+        {
+            "banner": "https://img.itch.zone/aW1nLzEzODA2ODc5LnBuZw==/300x240%23c/ElPBIQ.png",
+            "name": "Cosmic Collapse, a suika-like",
+            "price": "$4.95",
+            "description": "Collapse the universe - planet by planet",
+            "genres": ["#Puzzle", "#2D"]
+        },
+        {
+            "banner": "https://img.itch.zone/aW1nLzEyNjU1MTAyLnBuZw==/300x240%23c/SzhGnF.png",
+            "name": "Rising Up",
+            "price": "WEB",
+            "description": "Climb the Corporate Ladder... with Your Fists!",
+            "genres": ["#Fighting", "#Demake"]
+        },
+        {
+            "banner": "https://img.itch.zone/aW1nLzE0MTY4MTgzLnBuZw==/300x240%23c/sm%2BAAG.png",
+            "name": "24 Killers",
+            "price": "$19.99",
+            "description": "Out in the Indian Ocean Somewhere...",
+            "genres": ["#supernatural", "#Exploration"]
+        },
+        {
+            "banner": "https://img.itch.zone/aW1nLzE0NjUzODk4LnBuZw==/300x240%23c/eMApmu.png",
+            "name": "Kingsvein",
+            "price": "$19.99",
+            "description": "Explore and reclaim the infested castle-city of Kingsvein!",
+            "genres": ["#Fantasy", "#Dark Fantasy"]
+        },
+        {
+            "banner": "https://img.itch.zone/aW1nLzEzNjE5MDE0LnBuZw==/300x240%23c/mxr55C.png",
+            "name": "Slave Zero X: Episode Enyo",
+            "price": "FREE",
+            "description": "Episode Enyo is a free six-level campaign for Quake that takes place before the events of Slave Zero X.",
+            "genres": ["#Game mods"]
+        },
+        {
+            "banner": "https://img.itch.zone/aW1nLzE0NjM3NzQwLnBuZw==/300x240%23c/AczVEg.png",
+            "name": "Crystal Story: Dawn of Dusk",
+            "price": "$15",
+            "description": "Retro-style graphics, with fast-paced action and turn-based battles, heavily inspired by 16-bit classics!",
+            "genres": []
+        },
+        {
+            "banner": "https://img.itch.zone/aW1nLzExOTg4OTAxLnBuZw==/300x240%23c/K50RuY.png",
+            "name": "Soulash 2",
+            "price": "$17.99",
+            "description": "Sandbox RPG roguelike about world conquest.",
+            "genres": ["#Fantasy", "#Open World"]
+        },
+        {
+            "banner": "https://img.itch.zone/aW1nLzE0NjIyNDk0LnBuZw==/300x240%23c/YwwQOw.png",
+            "name": "Buckshot Roulette",
+            "price": "$1.20",
+            "description": "Risk your life.",
+            "genres": ["#Action", "#3D"]
+        },
+        {
+            "banner": "https://img.itch.zone/aW1nLzk1NTQ2MjQucG5n/300x240%23c/JCtCxY.png",
+            "name": "Ex-Zodiac",
+            "price": "$9.99",
+            "description": "A fast-paced low-poly 3D rail shooter heavily inspired by classics of the early 90's.",
+            "genres": ["#Shooter", "#Low-poly"]
+        },
+        {
+            "banner": "https://img.itch.zone/aW1nLzE0NDQwNzkxLnBuZw==/300x240%23c/3rWQFx.png",
+            "name": "Toree Jolly Jam",
+            "price": "FREE",
+            "description": "One level winter based 3D platformer with lots of bonus surprises.",
+            "genres": ["#Platformer", "#Short"]
+        },
+        {
+            "banner": "https://img.itch.zone/aW1nLzE0NDIyMDcyLnBuZw==/300x240%23c/FvUsU9.png",
+            "name": "Campfire Chat",
+            "price": "FREE",
+            "description": "A snowy hangout for you and your friends",
+            "genres": ["#Cozy", "#Multiplayer"]
+        }
+    ]
+}

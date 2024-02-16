@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>itch.io</title>
+    <link rel="stylesheet" href="general.css">
+    <link rel="stylesheet" href="top-bar.css">
+    <link rel="stylesheet" href="left-bar.css">
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="right.css">
+</head>
+<body>
+    <div class="top-bar">
+        <div class="logo-div">
+            <img src="itchio-logo.png" id="logo">            
+        </div>
+        <div class="top-buttons">
+            <button id="btn">Browse Games</button>
+            <button id="btn">Game Jams</button>
+            <button id="btn" class="upload">
+                <img src="upload-icon.png" id="upload">
+                <p>Upload Game</p>
+            </button>
+            <button id="btn">Developer Logs</button>
+            <button id="btn">Community</button>            
+        </div>
+        <div class="search-div">
+            <div class="search">
+                <div class="search-text">
+                    <p>Search for games or creators</p>
+                </div>
+                <div class="search-icon">
+                    <img src="search-icon.png" id="search">
+                </div>
+            </div>
+        </div>
+        <div class="account-buttons">
+            <button>Log in</button>
+            <button>Register</button>
+        </div>
+    </div>
+    <div class="main">
+        <div class="left">
+            <div class="popular-tags">
+                <div class="header1">
+                    <h4>POPULAR TAGS</h4>
+                </div>
+                <div class="tags">
+                    <table>
+                        <tr>
+                            <td>Horror games</td>
+                            <td>Multiplayer</td>
+                        </tr>
+                        <tr>
+                            <td>Visual novels</td>
+                            <td>HTML5 games</td>
+                        </tr>
+                        <tr>
+                            <td>Simulation</td>
+                            <td>macOS games</td>
+                        </tr>
+                        <tr>
+                            <td>Roguelike</td>
+                            <td>Linux games</td>
+                        </tr>
+                        <tr>
+                            <td>Browse all tags →</td>
+                            <td></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div class="browse">
+                <div class="header2">
+                    <h4>BROWSE</h4>
+                </div>
+                <div class="browsing-options">
+                    <table>
+                        <tr>
+                            <td>Games</td>
+                            <td>Game assets</td>
+                        </tr>
+                        <tr>
+                            <td>Tools</td>
+                            <td>Albums & soundtracks</td>
+                        </tr>
+                        <tr>
+                            <td>Physical games</td>
+                            <td>Comics</td>
+                        </tr>
+                        <tr>
+                            <td>Books</td>
+                            <td>Randomiser</td>
+                        </tr>
+                    </table>
+                </div>
+
+            </div>
+            <div class="games-by-price">
+                <div class="header3">
+                    <h4>GAMES BY PRICE</h4>
+                </div>
+                <div class="sorting-options">
+                    <table>
+                        <tr>
+                            <td>On Sale</td>
+                            <td>Free games</td>
+                        </tr>
+                        <tr>
+                            <td>With demo</td>
+                            <td>Top sellers</td>
+                        </tr>
+                        <tr>
+                            <td>$5 or less</td>
+                            <td>$15 or less</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="right">
+            <div class="itchio-text">
+                <p id="whole-text"><p id="itchio-word">itch.io</p>is a simple way to find and share indie games online for free. <a href="">Add your game</a> or <a href="">Read the FAQ</a></p>
+            </div>
+            <div class="download-app">
+                <button id="download-btn">Download app</button>
+                <p id="bold-download-text">Get the most out of itch.io!</p>
+                <p id="download-text">Install and manage your games with our desktop app</p>
+            </div>
+            <div class="featured-bundle">
+                <h2>Featured Bundle</h2>
+                <div class="bundle">
+                    <div class="bundle-info">
+                        <h3 id="bundle-name">Solo But Not Alone 4</h3>
+                        <p>Peach Garden Games and 94 others</p>
+                        <div class="price-bndl">
+                            <p>125 items for </p><p id="bundle-price">$10.00</p>
+                        </div>
+                        <p id="time-remaining">Bundle ends in a month</p>
+                    </div>
+                    <div class="bundle-images">
+                        <img src="doom.jpg">
+                        <img src="cyberpunk.jpg">
+                        <img src="last-of-us.jpg">
+                    </div>
+                </div>
+            </div>
+            <div class="game-div">
+                <div class="latest-featured">
+                    <h2>Latest Featured Games</h2>
+                    <button id="view-all">View all →</button>
+                </div>
+                <div class="games">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

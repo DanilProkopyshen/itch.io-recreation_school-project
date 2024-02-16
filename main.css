@@ -1,0 +1,10 @@
+.main{
+    display: flex;
+    width: 100%;
+}
+.left{
+    width: 17.5%;
+}
+.right{
+    width: 82.5%;
+}

@@ -1,0 +1,36 @@
+.left{
+    background-color: #f4f4f4;
+    height: 1200px;
+    padding: 20px;
+}
+table{
+    width: 100%;
+}
+td{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 14px;
+}
+.header1{
+    color: #434343;
+    font-weight: bold;
+}
+.tags{
+    color: grey;
+}
+.header2{
+    color: #434343;
+    font-weight: bold;
+    margin-top: 40PX;
+}
+.browsing-options{
+    color: grey;
+}
+.header3{
+    color: #434343;
+    font-weight: bold;
+    margin-top: 40PX;
+}
+.sorting-options{
+    color: grey;
+}

@@ -1,0 +1,61 @@
+.top-bar{
+    padding-left: 20px;
+    display: flex;
+    align-items: center;
+    height: 55px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+#logo{
+    height: 35px;
+}
+#upload{
+    height: 20px;
+}
+
+
+.top-buttons{
+    gap: 10px;
+}
+.upload{
+    display: flex;
+    align-items: center;
+}
+#btn{
+    background-color: white;
+    border: none;
+    font-size: 17px;
+    letter-spacing: 0;
+}
+.top-buttons{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 3px;
+    height: 35px;
+    width: 350px;
+    background-color: #F4F4F4;
+    color: #757575;
+}
+#search{
+    height: 20px;
+}
+.account-buttons{
+    padding-left: 100px;
+}
+.account-buttons > button{
+    width: 70px;
+    height: 35px;
+    background-color: white;
+    border-radius: 3px;
+    border: 2px solid #DADADA;
+    font-weight: bold;
+}
